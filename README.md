@@ -1,5 +1,5 @@
 ## About
-A simple application using Node.js to create a CRUD (Create, read, update, and delete) for movies, with information such as name, production company, and release year.
+A simple application using Node.js to create a CRUD (create, read, update, and delete) for movies, with information such as name, production company, and release year.
 
 ## Tools
  - Javascript

@@ -38,3 +38,8 @@ A simple application using Node.js to create a CRUD (create, read, update, and d
 Use Insomnia, or the framework of your choice, to make requests to the application. 
 
 Below are some examples of requests using the Insomnia framework:
+
+1- Returning information for all movies using the GET method
+<img width="1440" alt="Screenshot 2023-08-07 at 18 36 13" src="https://github.com/douglaswdhein/crud-example/assets/111468837/bf3b393d-8215-4da0-98e9-1083f1c3540e">
+
+

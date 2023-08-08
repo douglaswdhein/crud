@@ -33,3 +33,8 @@ A simple application using Node.js to create a CRUD (create, read, update, and d
   $ node index.js
 ```
 
+## How to see the application
+
+Use Insomnia, or the framework of your choice, to make requests to the application. 
+
+Below are some examples of requests using the Insomnia framework:

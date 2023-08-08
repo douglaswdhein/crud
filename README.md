@@ -40,6 +40,12 @@ Use Insomnia, or the framework of your choice, to make requests to the applicati
 Below are some examples of requests using the Insomnia framework:
 
 1- Returning information for all movies using the GET method
+
 <img width="1440" alt="Screenshot 2023-08-07 at 18 36 13" src="https://github.com/douglaswdhein/crud-example/assets/111468837/bf3b393d-8215-4da0-98e9-1083f1c3540e">
+
+2- Returning the information of a specific movie by id also using the GET method
+
+<img width="1440" alt="Screenshot 2023-08-07 at 18 36 37" src="https://github.com/douglaswdhein/crud-example/assets/111468837/eba11e1c-041f-4cb3-85b4-27818469a826">
+
 
 
